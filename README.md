@@ -1,10 +1,7 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
+# Simple React-Three-Fiber webpage
 
-```
-yarn
-yarn dev
-```
+To run this project,
+> npm install
+> npm run dev
 
-
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+![Webpage Sample](public/samples/homePage.png "Home Page Sample")
